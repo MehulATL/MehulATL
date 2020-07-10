@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Mehul Patel – @MehulATL
+Hi, I'm Mehul!
+
+✍🏽 i write the trillest js \
+📻 cofounder @peachtreedevs \
+👔 coorganizer @RenderATL \
+🛠 sr. software engineer 
+
+## Get in touch
+Twitter: https://twitter.com/mehulatl
