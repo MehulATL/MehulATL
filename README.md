@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 Hi, I'm Mehul!
 
 ✍🏽 i write the trillest js \
-📻 cofounder @peachtreedevs \
-👔 coorganizer @RenderATL \
-🛠 sr. software engineer 
+📻 cofounder/cohost @ Peachtree Devs \
+👔 coorganizer @ RenderATL \
+🛠 sr. software engineer \
+🎨 creative director @ Rushabh & Co. \
+📸 photographer @ 4o4 Esports
 
 ## Get in touch
 Twitter: https://twitter.com/mehulatl
