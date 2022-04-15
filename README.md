@@ -20,7 +20,6 @@ Hi, I'm Mehul!
 📻 cofounder/cohost @ Peachtree Devs \
 👔 coorganizer @ RenderATL \
 🛠 sr. software engineer \
-🎨 creative director @ Rushabh & Co. \
 📸 photographer @ 4o4 Esports
 
 ## Get in touch
