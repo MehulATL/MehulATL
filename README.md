@@ -16,11 +16,20 @@ Here are some ideas to get you started:
 # Mehul Patel – @MehulATL
 Hi, I'm Mehul!
 
-✍🏽 i write the trillest js \
-📻 cofounder/cohost @ Peachtree Devs \
-👔 coorganizer @ RenderATL \
-🛠 sr. software engineer \
-📸 photographer @ 4o4 Esports
+**STUFF I’M WORKING ON** \
+Software Engineer → JobTarget \
+Co-host → Peachtree Devs Podcast \
+Custom Luxury Jewelry → Rushabh & Co. \
+Founder/Lead Architect → Peachtree Software Group
+
+**PAST CONSULTING CLIENTS** \
+Car & Driver , Nike Germany, Bloomberg, ADP, Inmoment
+
+**STUFF I’VE DONE IN THE PAST** \
+Frontend Engineer →  AWS ProServe (Amazon) \
+Fullstack Engineer → Stanley Black & Decker \
+Frontend/Mobile Engineer → Keychain Logistics (YC 2012)
+
 
 ## Get in touch
 Twitter: https://twitter.com/mehulatl
