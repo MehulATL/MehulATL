@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 Hi, I'm Mehul!
 
 **STUFF I’M WORKING ON** \
-Software Engineer → JobTarget \
+Software Engineer → MailChimp \
 Co-host → Peachtree Devs Podcast \
-Custom Luxury Jewelry → Rushabh & Co. \
+Custom Luxury Jewelry → ATL Custom Jewelers \
 Founder/Lead Architect → Peachtree Software Group
 
 **PAST CONSULTING CLIENTS** \
