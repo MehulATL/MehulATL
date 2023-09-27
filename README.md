@@ -18,9 +18,7 @@ Hi, I'm Mehul!
 
 **STUFF I’M WORKING ON** \
 Software Engineer → MailChimp \
-Co-host → Peachtree Devs Podcast \
-Custom Luxury Jewelry → ATL Custom Jewelers \
-Founder/Lead Architect → Peachtree Software Group
+Founder → Peachtree Software Group
 
 **PAST CONSULTING CLIENTS** \
 Car & Driver , Nike Germany, Bloomberg, ADP, Inmoment
